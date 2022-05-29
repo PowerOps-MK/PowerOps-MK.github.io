@@ -16,32 +16,32 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Chicago
+timezone: Europe/Amsterdam
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Techno Tim Documentation                          # the main title
+title: PowerOps-MK Documentation                          # the main title
 
-tagline: Video documentation for all your copy pasta needs!   # it will display as the sub-title
+tagline: PowerOps-MK documentation   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Documentation for Techno Tim YouTube videos for all your copy pasta needs!
+  Documentation for PowerOps-MK
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://docs.technotim.live'
+url: 'https://pages.powerops.nl'
 
 github:
-  username: timothystewart6             # change to your github username
+  username: PowerOps-MK  # change to your github username
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Techno Tim
+  name: PowerOps-MK
   # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://l.technotim.live/twitter      # change to your twitter homepage
-    # - https://github.com/username       # change to your github homepage
+    # - https://l.technotim.live/twitter      # change to your twitter homepage
+     - https://github.com/PowerOps-MK       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -52,7 +52,7 @@ social:
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 'G-NZ5V7DM8F5'          # Fill with your Google Analytics ID
+   id: ''          # Fill with your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
