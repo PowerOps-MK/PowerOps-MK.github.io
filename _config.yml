@@ -52,7 +52,7 @@ social:
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-   # id: ''          # Fill with your Google Analytics ID
+  id: ''          # Fill with your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
